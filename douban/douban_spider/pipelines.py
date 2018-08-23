@@ -44,7 +44,7 @@ class DoubanSpiderPipeline(object):
         #                      db=self.dbname)
         db = pymysql.Connect(host='localhost',
                              user='root',
-                             password='wangzhao',
+                             password='password',
                              db='test',
                              charset='utf8')
 
