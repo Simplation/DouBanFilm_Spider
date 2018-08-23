@@ -102,5 +102,5 @@ ITEM_PIPELINES = {
 
 mysql_host = 'localhost'
 db_user = 'root'
-db_password = 'wangzhao'
+db_password = 'password'
 db_name = 'douban'
