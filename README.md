@@ -2,6 +2,10 @@
 采用 Scrapy 爬取豆瓣电影 top250 的数据， 并将数据保存为 CSV 格式。
 --------------------------------------------------------------
 
+*最最先需要安装的是 pip（pip 是 Python 的包管理工具）*
+
+    sudo easy_install pip
+
 ## 1、首先是安装 scrapy，直接使用 pip 进行安装即可。
     pip install scrapy   
     
